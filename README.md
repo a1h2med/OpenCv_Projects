@@ -18,7 +18,8 @@ In this Project I was trying to detect the corners in the real life, and control
 
 ## Face_Recognition:
 Description:<br/>
-In (Face_Recognition_Project) this Project it was required to detect a face from a live sketch, Then match the face detected with a certain template, then you have to show a text if the matching with the image you have was successful.
+In (Face_Recognition_Project) this Project it was required to detect a face from a live sketch, Then match the face detected with a certain template, then you have to show a text if the matching with the image you have was successful.  
+  
 In (Face_Recognition) this project I made as part of smart door unlock. It will get an image using a camera and checks the person's image.
 If he/she is a member of house, door will open otherwise it will inform the house manager.
 
